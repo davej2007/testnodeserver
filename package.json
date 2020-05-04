@@ -1,0 +1,23 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davej2007/testnodeserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davej2007/testnodeserver/issues"
+  },
+  "homepage": "https://github.com/davej2007/testnodeserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
